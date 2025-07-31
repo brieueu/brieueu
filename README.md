@@ -14,9 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brieueu&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brieueu&layout=compact)](https://github.com/brieueu/github-readme-stats)
 
 
 
