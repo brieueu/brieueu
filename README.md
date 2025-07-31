@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=brieueu&color=006bed)
 
-## Minha linha de estudo
+## My line of study
 
 - 🎓 Computer Enginner Student.
 - 📍 Machine Learning Engineer.
