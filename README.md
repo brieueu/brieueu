@@ -13,10 +13,10 @@
 
 ## Estatísticas
 
-<div align="cenjgav@ic.ufal.brter">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=brieueu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Gabriel" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieueu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brieueu&theme=tokyonight" alt="Estatísticas do GitHub de Gabriel" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brieueu&theme=tokyonight" alt="Linguagens mais usadas" />
 
 </div>
 
