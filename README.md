@@ -4,8 +4,8 @@
 
 **Computer Engineering | AI/ML | TinyML | Hardware Architecture**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jose--gabriel--portfolio-7AA2F7?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/brieueu/jose-gabriel-portfolio)
-[![Email](https://img.shields.io/badge/Email-jgav%40ic.ufal.br-7AA2F7?style=flat-square&logo=gmail&logoColor=white)](mailto:jgav@ic.ufal.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jose--gabriel--portfolio-1A1B26?style=flat-square&logo=githubpages&logoColor=7AA2F7&labelColor=1A1B26)](https://github.com/brieueu/jose-gabriel-portfolio)
+[![Email](https://img.shields.io/badge/Email-jgav%40ic.ufal.br-1A1B26?style=flat-square&logo=gmail&logoColor=7AA2F7&labelColor=1A1B26)](mailto:jgav@ic.ufal.br)
 
 </div>
 
