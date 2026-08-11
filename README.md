@@ -1,22 +1,22 @@
 <div align="center">
 
-# Olá, eu sou o Gabriel 👋
+# Hi, I'm Gabriel 👋
 
-**Engenharia de Computação | IA/ML | TinyML | Arquitetura de Hardware**
+**Computer Engineering | AI/ML | TinyML | Hardware Architecture**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jose--gabriel--portfolio-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/brieueu/jose-gabriel-portfolio)
-[![Email](https://img.shields.io/badge/Email-jgav%40ic.ufal.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jgav@ic.ufal.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jose--gabriel--portfolio-7AA2F7?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/brieueu/jose-gabriel-portfolio)
+[![Email](https://img.shields.io/badge/Email-jgav%40ic.ufal.br-7AA2F7?style=flat-square&logo=gmail&logoColor=white)](mailto:jgav@ic.ufal.br)
 
 </div>
 
 ---
 
-## Estatísticas
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brieueu&theme=tokyonight" alt="Estatísticas do GitHub de Gabriel" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brieueu&theme=tokyonight" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brieueu&theme=tokyonight" alt="Gabriel's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brieueu&theme=tokyonight" alt="Most used languages" />
 
 </div>
 
