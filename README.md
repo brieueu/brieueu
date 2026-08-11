@@ -16,7 +16,7 @@
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brieueu&theme=transparent" alt="Gabriel's GitHub statistics" />
-<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brieueu&theme=transparent" alt="Most used languages" />
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brieueu&theme=transparent" alt="Most used languages&exclude=HTML" />
 
 </div>
 
