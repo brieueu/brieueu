@@ -2,19 +2,12 @@
   <title id="title">Top Languages by Repo</title>
   <desc id="description">Top five primary languages across Gabriel's public repositories, each shown with a distinct Tokyo Night color.</desc>
 
-  <style>
-    .card-title { fill: #70A5FD; }
-    .card-label { fill: #38BDAE; }
-    @media (prefers-color-scheme: light) {
-      .card-title { fill: #0969DA; }
-      .card-label { fill: #0F766E; }
-    }
-  </style>
+  <rect width="340" height="200" rx="6" fill="#1A1B27"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text class="card-title" x="30" y="40" font-size="23" font-weight="500">Top Languages by Repo</text>
+    <text x="30" y="40" fill="#70A5FD" font-size="23" font-weight="500">Top Languages by Repo</text>
 
-    <g class="card-label" font-size="14">
+    <g font-size="14" fill="#38BDAE">
       <rect x="40" y="59" width="12" height="12" rx="1" fill="#7AA2F7"/>
       <text x="57" y="70">Python</text>
 
@@ -33,6 +26,7 @@
   </g>
 
   <g fill="none" stroke-width="22" transform="rotate(-90 250 116)">
+    <circle cx="250" cy="116" r="48" stroke="#24283B"/>
     <circle cx="250" cy="116" r="48" stroke="#7AA2F7" stroke-dasharray="106.64 194.95" stroke-dashoffset="0"/>
     <circle cx="250" cy="116" r="48" stroke="#BB9AF7" stroke-dasharray="79.23 222.36" stroke-dashoffset="-109.66"/>
     <circle cx="250" cy="116" r="48" stroke="#9ECE6A" stroke-dasharray="51.81 249.78" stroke-dashoffset="-191.93"/>
